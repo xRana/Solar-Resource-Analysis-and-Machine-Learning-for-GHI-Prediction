@@ -1,0 +1,1 @@
+# Solar-Resource-Analysis-and-Machine-Learning-for-GHI-Prediction
