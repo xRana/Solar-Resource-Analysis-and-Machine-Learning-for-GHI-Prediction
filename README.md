@@ -121,3 +121,6 @@ The project includes visualizations such as:
 - Cross-validation
 - Interactive dashboard
 - Time-series forecasting using advanced LSTM architectures
+
+# License
+ Copyright (c) 2026 Rana Althafar, Ftoon Althafar, Majd Almubarak, Sara Alruhaiman.
